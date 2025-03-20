@@ -14,7 +14,7 @@ export default function Hero() {
         <h1 className="text-5xl font-bold mb-6 text-gray-900 dark:text-white">Clinton Omondi</h1>
         <p className="text-2xl text-gray-600 dark:text-gray-300 mb-8">Computer Science Student @ Kisii University</p>
         <p className="text-lg text-gray-600 dark:text-gray-400 mb-12 max-w-2xl mx-auto">
-          Second year CS student specializing in Artificial Intelligence and Full-Stack Development.
+          CS student specializing in Artificial Intelligence and Full-Stack Development.
           Currently working on ML-powered web applications and contributing to open-source projects.
         </p>
         
