@@ -14,7 +14,7 @@ const projects = [
     title: "SmartTask",
     description: "AI-powered task management system with natural language processing",
     image: "https://images.unsplash.com/photo-1512314889357-e157c22f938d?w=600&h=400&fit=crop",
-    tech: ["React", "Supabase"],
+    tech: ["React", "Supabase", "OpenAI API"],
     github: "https://github.com/alexchen/smarttask",
     live: "https://smarttask.demo.com"
   },
