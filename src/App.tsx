@@ -8,6 +8,7 @@ import Experience from './components/sections/Experience';
 import Testimonials from './components/sections/Testimonials';
 import Contact from './components/sections/Contact';
 import Footer from './components/layout/Footer';
+import ScrollIndicator from './components/ui/ScrollIndicator';
 import { ThemeProvider } from './context/ThemeContext';
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
     <ThemeProvider>
       <div className="min-h-screen bg-white dark:bg-gray-900 text-gray-900 dark:text-white transition-colors">
         <Navbar />
+        <ScrollIndicator />
         <Hero />
         <About />
         <Projects />
